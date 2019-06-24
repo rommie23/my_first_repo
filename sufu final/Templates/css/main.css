@@ -1,0 +1,91 @@
+body{
+padding:0px;
+}
+.headbox{
+	display:block;
+	padding: 5px;
+	background-color: #7bf97b;
+}
+.headbox h1{
+	font-size: 50px;
+	color: gray;
+	font-family: Segoe UI;
+}
+/* .common_head{
+    opacity: 1;
+		position: absolute;
+		left: 100px;
+		top: 10px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+} */
+
+.loginbox{
+	padding:80px;
+	width: 357px;
+	height: 507px;
+	color:black;
+	background-color: white;
+	top: 75%;
+	left: 50%;
+	border: 2px solid #7bf97b;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	border-radius: 5%;
+	}
+	.loginbox2{
+		width: 359px;
+		height: 509px;
+		background-color: white;
+		top: 75%;
+		left: 50%;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		border: 2px solid #7bf97b;
+		border-radius: 5%;
+	}
+.avatar{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	left: 257px;
+	position: absolute;
+	top: -10%;
+	left: calc(50% - 50px)
+
+
+}
+.values{
+	padding: 1px 10px;
+	text-decoration:'none';
+	border-radius: 10px;
+	height:30px;
+	width:100%;
+	box-shadow: none;
+	border:0.5px solid gray;
+}
+.fields_container{
+	align-self: center;
+}
+.button{
+	display: block;
+	border-radius:5px;
+	margin-top: 20px;
+	width:100%;
+	text-align: center;
+	align-self: center;
+	padding:10px;
+	border:none;
+	background-color: rgba(0,255,0, 0.5);
+}

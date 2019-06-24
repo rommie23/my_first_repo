@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108" height="29.224" viewBox="0 0 108 29.224">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="108" height="29.224" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_2" data-name="Component 2" clip-path="url(#clip-path)">
+    <g id="btn-background" fill="none" stroke="#03f903" stroke-width="2">
+      <rect width="108" height="29.224" rx="14.612" stroke="none"/>
+      <rect x="1" y="1" width="106" height="27.224" rx="13.612" fill="none"/>
+    </g>
+    <text id="Log_in" data-name="Log in" transform="translate(54.175 20.263)" fill="#03f903" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-22.493" y="0">Log in</tspan></text>
+  </g>
+</svg>
