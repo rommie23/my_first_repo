@@ -11,24 +11,6 @@ padding:0px;
 	color: gray;
 	font-family: Segoe UI;
 }
-/* .common_head{
-    opacity: 1;
-		position: absolute;
-		left: 100px;
-		top: 10px;
-		box-sizing: border-box;
-		margin: 0;
-		padding: 0;
-		overflow: visible;
-		width: 127px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: Segoe UI;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 25px;
-		color: rgba(112,112,112,1);
-} */
 
 .loginbox{
 	padding:80px;
@@ -88,4 +70,9 @@ padding:0px;
 	padding:10px;
 	border:none;
 	background-color: rgba(0,255,0, 0.5);
+}
+.to_login{
+	font-size: 12px;
+        text-align: right;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
